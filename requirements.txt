@@ -1,0 +1,16 @@
+# Core
+numpy
+pandas
+matplotlib
+opencv-python
+scikit-learn
+
+# YOLOv8
+ultralytics>=8.0.20
+
+# Jupyter
+ipykernel
+notebook
+
+streamlit
+Pillow

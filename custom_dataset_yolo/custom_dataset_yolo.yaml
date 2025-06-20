@@ -1,0 +1,7 @@
+path: custom_dataset_yolo
+
+train: images/train
+val: images/val
+
+nc: 1
+names: ['object']

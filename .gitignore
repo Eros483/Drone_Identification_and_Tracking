@@ -1,0 +1,22 @@
+# Model checkpoints and binaries
+*.pt
+*.ckpt
+*.safetensors
+
+# Images and videos
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.avi
+*.mov
+
+# Dataset and cache directories
+__pycache__/
+*.ipynb_checkpoints
+
+# Misc
+.DS_Store
+*.log
+*.tmp
