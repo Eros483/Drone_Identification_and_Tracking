@@ -188,4 +188,3 @@ dependencies:
       - webencodings==0.5.1
       - websocket-client==1.8.0
       - wsproto==1.2.0
-prefix: C:\Users\caio\miniconda3\envs\object
